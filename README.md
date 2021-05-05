@@ -1,6 +1,11 @@
-# newsapp
+# Newsapp
 
-A new Flutter project.
+  NewsApp is app to fetch latest news using News Api
+  
+  Api: http://newsapi.org/v2/top-headlines?country=in&apiKey=yourApiKey
+  
+# Screenshot
+
 
 ## Getting Started
 
